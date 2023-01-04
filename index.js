@@ -4,3 +4,4 @@ console.log('Hamad');
 document.getElementById("name");
 
 console.log("Main");
+console.log("Greet2");
