@@ -3,4 +3,4 @@ console.log('Usman');
 console.log('Hamad');
 document.getElementById("name");
 
-console.log("Amending the commit snapshot");
+console.log("Creating the conflict");
