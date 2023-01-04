@@ -1,6 +1,11 @@
-console.log('Umar');
-console.log('Usman');
-console.log('Hamad');
-document.getElementById("name");
+const greet = (user_name) => `Hello, ${user_name}`;
 
-console.log("This line shoud create merge conflict");
+console.log(greet("Umar"));
+
+const sayHello = (user_name) => `How are you ${user_name}`;
+
+console.log(sayHello("Umar"));
+
+const askName = () => `How are you?`;
+
+console.log(askName());
