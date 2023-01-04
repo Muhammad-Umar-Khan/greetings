@@ -1,4 +1,3 @@
-console.log('Umar');
-console.log('Usman');
-console.log('Hamad');
-document.getElementById("name");
+const greet = (user_name) => `Hello, ${user_name}`;
+
+console.log(greet("Umar"));
